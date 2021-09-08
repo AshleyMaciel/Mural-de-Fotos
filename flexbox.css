@@ -1,0 +1,20 @@
+ul {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+li {
+	height: 40vh;
+	flex-grow: 1;
+}
+
+img {
+max-height: 100%;
+min-width: 100%;
+object-fit: cover;
+vertical-align: bottom;
+}
+
